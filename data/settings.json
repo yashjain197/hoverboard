@@ -38,11 +38,6 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
@@ -53,14 +48,6 @@
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
-    },
-    "blog": {
-      "title": "Blog",
-      "metaDescription": "Read stories from our team",
-      "background": {
-        "color": "#FFF"
-      },
-      "fontColor": "#424242"
     },
     "speakers": {
       "title": "Speakers",
