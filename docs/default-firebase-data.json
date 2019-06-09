@@ -1442,186 +1442,129 @@
   },
   "team" : [ {
     "members" : [ {
-      "name" : "Oleh Zasadnyy",
-      "photo" : "/images/people/oleh_zasadnyy.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+OlehZasadnyy",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/oleh.zasadnyy",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/ozasadnyy",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://o.zasadnyy.com/",
-        "name" : "Blog"
-      } ],
-      "order" : 0,
-      "title" : "Website and sponsors"
+      "name": "Pamuditha Imalka",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fpamuditha.jpg?alt=media&token=bb514fb4-87d6-4302-b63c-f9228ae15766",
+      "socials": [
+        {
+          "icon": "gplus",
+          "link": "https://plus.google.com/u/0/+PamudithaImalka",
+          "name": "Google+"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/pamuroky",
+          "name": "Facebook"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Pamudithaimalka",
+          "name": "Twitter"
+        }
+      ],
+      "order": 1,
+      "title": "Guy who gives tasks to others, pulls hair when deadlines are near"
     }, {
-      "name" : "Sofiya Huts",
-      "photo" : "/images/people/sofiya_huts.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+SofiaHuts",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/sophie.huts.7",
-        "name" : "Facebook"
-      } ],
-      "order" : 1,
-      "title" : "Social and media"
+      "name": "Milindu Sanoj",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmilidu.jpg?alt=media&token=5bbfeb1d-542d-4172-aaa6-b75c58a7c015",
+      "socials": [
+        {
+          "icon": "gplus",
+          "link": "https://plus.google.com/u/0/+MilinduSanojKumarage",
+          "name": "Google+"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/agentmilindu",
+          "name": "Facebook"
+        }
+      ],
+      "order": 2,
+      "title": "Person, who knows the most about meals"
     }, {
-      "name" : "Vitaliy Zasadnyy",
-      "photo" : "/images/people/vitaliy_zasadnyy.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvitaliy_zasadnyy.jpg?alt=media&token=930e05c8-ae43-4628-8d4c-3e8f5193cda3",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/zasadnyy",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/zasadnyy",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://v.zasadnyy.com/",
-        "name" : "Blog"
-      } ],
-      "order" : 2,
-      "title" : "Speakers"
+      "name": "Tharaka Devinda",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Ftharaka.jpg?alt=media&token=ef994ec9-f5a2-45ae-bb21-fb5b1a376ff0",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/tdevinda",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/tdevinda",
+          "name": "Facebook"
+        }
+      ],
+      "order": 3,
+      "title": "Most probable reason you didn't get a ticket..."
     }, {
-      "name" : "Marta Maxymiak",
-      "photo" : "/images/people/marta_maxymiak.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fmarta_maxymiak.jpg?alt=media&token=6532f039-7f86-4304-8558-dbfbb3ae8d68",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/104036874811391520583",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/marta.maxymiak",
-        "name" : "Facebook"
-      } ],
-      "order" : 3,
-      "title" : "Party and happiness"
+      "name": "Udaya Gunathilaka",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fudaya.png?alt=media&token=92cf0007-b128-462d-af43-1f1a9d902d2e",
+      "socials": [
+        {
+          "icon": "gplus",
+          "link": "https://plus.google.com/u/0/+UdayaGunathilaka",
+          "name": "Google+"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/umgunathilaka",
+          "name": "Facebook"
+        }
+      ],
+      "order": 4,
+      "title": "Lights, sounds and wow"
     }, {
-      "name" : "Ostap Andrusiv",
-      "photo" : "/images/people/ostap_andrusiv.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ostap_andrusiv.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://google.com/+OstapAndrusiv",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/ostap.andrusiv",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/p1f",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://andrusiv.com/",
-        "name" : "Blog"
-      } ],
-      "order" : 4,
-      "title" : "Sponsors"
+      "name": "Pasan Ranathunga",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fpasan.jpg?alt=media&token=58d661e8-1e91-4054-853f-eaea1146ed14",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/pasan.artz",
+          "name": "Google+"
+        }
+      ],
+      "order": 5,
+      "title": "Pasdio, Pastakes, Pasming and all things Pas! you name it. He has it.!"
     }, {
-      "name" : "Vasylyna Mytsak",
-      "photo" : "/images/people/vasylyna_mytsak.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/vasylyna_mytsak.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+ВасилинаМицак",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/vasylyna.mytsak",
-        "name" : "Facebook"
-      } ],
-      "order" : 5,
-      "title" : "Party and happiness"
+      "name": "Michela Thalagala",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmichela.png?alt=media&token=adfa761c-2d29-497b-8bad-f44229c2c2fb",
+      "socials": [
+        {
+          "icon": "gplus",
+          "link": "https://plus.google.com/u/0/+MichelaThalagala",
+          "name": "Google+"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/michela.thalagala",
+          "name": "Facebook"
+        }
+      ],
+      "order": 6,
+      "title": "Princess of Prague"
     }, {
-      "name" : "Volodya Karpliuk",
-      "photo" : "/images/people/volodya_karpliuk.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvolodya_karpliuk.jpg?alt=media&token=aa08d9c9-c42a-435f-8672-c3a004e3aa08",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+VolodyaKarpliuk23",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/volodya.karpluk",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/keyv23",
-        "name" : "Twitter"
-      } ],
-      "order" : 6,
-      "title" : "Speakers"
+      "name": "Dilini Madhubhashini",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fdilini.jpg?alt=media&token=eca3ce49-330b-4eee-9e73-3a0eefd2ec60",
+      "socials": [
+        {
+          "icon": "gplus",
+          "link": "https://plus.google.com/u/0/112171662926048643500",
+          "name": "Google+"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/dilini.m.weerasinghe",
+          "name": "Facebook"
+        }
+      ],
+      "order": 7,
+      "title": "Coordinator Wedding pre shoot"
     }, {
-      "name" : "Diana Pinchuk",
-      "photo" : "/images/people/diana_pinchuk.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fdiana_pinchuk.jpg?alt=media&token=189d67d1-004f-4a3c-9e0c-13bc992bbaf7",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DianaPinchuk",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/diana.pinchuk.9",
-        "name" : "Facebook"
-      } ],
-      "order" : 7,
-      "title" : "Social and media"
-    } ],
-    "title" : "Core Team"
-  }, {
-    "members" : [ {
-      "name" : "Ihor Dvoretskyi",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/idvoretskyi",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
-      } ],
-      "order" : 0,
-      "title" : "Cloud stream"
-    }, {
-      "name" : "Dmytro Danylyk",
-      "photo" : "/images/people/dmytro_danylyk.jpg",
-      "photoUrl" : "",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DmytroDanylyk",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com/#/about",
-        "name" : "Website"
-      } ],
-      "order" : 1,
-      "title" : "Android Stream"
+      "name": "Raveen Harith",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fraveen.png?alt=media&token=cd4efdf6-41fa-4249-85da-af109588bece",
+      "order": 8,
+      "title": "The only Panthera Pardus Kotiya outside Yala"
     } ],
     "title" : "Program Committee"
   } ],
