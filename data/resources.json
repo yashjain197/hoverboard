@@ -73,27 +73,17 @@
         {
           "name": "Partnership Proposition",
           "url": "",
-          "newTab": false
-        },
-        {
-          "name": "Info Partnership Proposition",
-          "url": "",
-          "newTab": false
-        },
-        {
-          "name": "Media Kit",
-          "url": "",
-          "newTab": false
+          "newTab": true
         },
         {
           "name": "Call for Papers",
           "url": "",
-          "newTab": false
+          "newTab": true
         },
         {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
+          "name": "FAQ",
+          "url": "https://gdgsrilanka.org/about",
+          "newTab": true
         }
       ]
     }
