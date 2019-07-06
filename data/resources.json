@@ -16,8 +16,8 @@
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
   "offlineMessage": "You can still work offline.",
-  "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "A new version of this app is available.",
+  "cachingComplete": "Page Saved. You can now view this site without internet.",
+  "newVersionAvailable": "Page has been updated. Refresh to view latest",
   "refresh": "Refresh",
   "position": "Position",
   "country": "Country",
@@ -99,7 +99,7 @@
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O Extended of Sri Lanka', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "description": "Described by many as 'the most sought after community tech event', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
         "label": "See how it was in 2018",
         "youtubeId": "TdpbgRgz6eE"
       }
@@ -179,7 +179,7 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfsl18 highlights",
+    "title": "#devfestlk18 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
