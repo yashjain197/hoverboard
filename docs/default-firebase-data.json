@@ -573,24 +573,24 @@
     }
   },
   "speakers" : {
-    "adrian_kajda" : {
-      "bio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-      "company" : "Sygic",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "keshan_sodimana" : {
+      "bio" : "Keshan is the country engineering consultant for Google Sri Lanka. Keshan was the GDG lead and founder for GDG Sri Lanka. Before joining Google, he was a Software Developer for IFS, and he is a co-founder of Siyomek Holdings",
+      "company" : "Google",
+      "companyLogo" : "https://dfua16.firebaseapp.com/images/logos/google.svg",
+      "companyLogoUrl" : "https://dfua16.firebaseapp.com/images/logos/google.svg",
+      "country" : "Sri Lanka",
       "featured" : true,
-      "name" : "Adrian Kajda",
-      "photo" : "/images/people/adrian_kajda.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/adrian_kajda.jpg",
-      "shortBio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+      "name" : "Keshan Sodimana",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F1901173_10203074120595094_1450286311_n.jpg?alt=media&token=aad38900-f8e7-4f71-9bca-f9c64157c75c",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F1901173_10203074120595094_1450286311_n.jpg?alt=media&token=aad38900-f8e7-4f71-9bca-f9c64157c75c",
+      "shortBio" : "Keshan is the country engineering consultant for Google Sri Lanka. Keshan was the GDG lead and founder for GDG Sri Lanka. Before joining Google, he was a Software Developer for IFS, and he is a co-founder of Siyomek Holdings",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "plus.google.com/+AdrianKajda",
-        "name" : "Google+"
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/keshan",
+        "name" : "LinkedIn"
       } ],
       "order" : 0,
-      "title" : "Product Manager/Developer"
+      "title" : "Country Engineering Consultant"
     }
   },
   "team" : [ {
