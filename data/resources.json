@@ -3,8 +3,8 @@
   "description": "by developers | for developers",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 28-29, 2019",
-  "partnershipProposition": "https://bit.ly/dflk18-partners",
+  "dates": "November 16-17, 2019",
+  "partnershipProposition": "",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -72,12 +72,12 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSdKfoDgUV3-y7AgovNgI8yVcuti-_-gzprTqN5Bn9dUvrUhJA/viewform",
           "newTab": true
         },
         {
           "name": "Call for Papers",
-          "url": "",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSc_VsccloepsiPbMnT6TTBLwLBfaFWJn7BRH3T5w6npSGoX7Q/viewform",
           "newTab": true
         }
       ]
