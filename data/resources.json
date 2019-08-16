@@ -4,7 +4,7 @@
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "November 16-17, 2019",
-  "partnershipProposition": "",
+  "partnershipProposition": "https://drive.google.com/file/d/1aa5kyisjCPgAFg7ChmRX_MApF20eECyW/view?usp=sharing",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -72,7 +72,7 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "https://docs.google.com/forms/d/e/1FAIpQLSdKfoDgUV3-y7AgovNgI8yVcuti-_-gzprTqN5Bn9dUvrUhJA/viewform",
+          "url": "https://drive.google.com/file/d/1aa5kyisjCPgAFg7ChmRX_MApF20eECyW/view?usp=sharing",
           "newTab": true
         },
         {
