@@ -28,6 +28,16 @@
     } ],
     "order" : 0,
     "title" : "Supported By"
+  },
+{
+    "logos" : [ {
+      "order" : 0,
+      "logoUrl" : "../images/logos/jetbrains-variant-3.svg",
+      "name" : "Jetbrains",
+      "url" : "https://www.jetbrains.com"
+    } ],
+    "order" : 1,
+    "title" : "General partners "
   } ],
   "schedule" : {
     "2016-11-16" : {
