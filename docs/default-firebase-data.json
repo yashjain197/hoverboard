@@ -616,6 +616,54 @@
       } ],
       "order" : 0,
       "title" : "GDE Machine Learning"
+    },
+    "Sajeetharan_Sinnathurai" : {
+      "badges" : [ {
+        "description" : "Angular Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/sajeetharan-sinnathurai",
+        "name" : "gde"
+      } ],
+      "bio" : "With over 8 years of experience in the ICT industry, Sajeetharan Sinnathurai is a full stack developer, an enthusiast in Cloud and Web Development. He currently works at Microsoft as a Technical Evangelist. His skill in Web Application Architecture, Cloud and more has seen him become a Microsoft MVP in Developer Technologies, Google developer expert in Web technology. Sajeetharan is also the top contributor on stack Overflow in Sri Lanka and he ranks among the top 10 contributors in the world on Angular, Cosmos DB, etc. He is also a reviewer on https://www.packtpub.com/ .He now focuses on channeling his knowledge into open source projects and sharing it with the community by mentoring,creating POCS,running workshops,writing blogs to help make the world a better and more developed place.",
+      "company" : "Microsoft",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Microsoft-Logo-PNG.png?alt=media&token=48c6415b-2af6-42fc-9635-a3b812d221dd",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Microsoft-Logo-PNG.png?alt=media&token=48c6415b-2af6-42fc-9635-a3b812d221dd",
+      "country" : "Colombo , Sri Lanka",
+      "featured" : true,
+      "name" : "Sajeetharan Sinnathurai",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F29025393_10155092599246441_7284857292248571903_n%20-%20Sajeetharan%20Sinnathurai.jpg?alt=media&token=70bf3519-554d-46cf-8ea9-20b030e0d6ce",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/speakers%2F29025393_10155092599246441_7284857292248571903_n%20-%20Sajeetharan%20Sinnathurai.jpg?alt=media&token=70bf3519-554d-46cf-8ea9-20b030e0d6ce",
+      "shortBio" : "Sajeetharan is a full stack developer with over 8 years of experience.",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/sajeetharan",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Cloud Solution Architect"
+    },
+     "Milindu_Sanoj" : {
+      "bio" : "Graduated with a BSc in Computer Science from University of Colombo School of Computing in 2017 and now working as a full-stack Software Engineer at Sysco Labs. Have been working with GDG Sri Lanka for about couple of years and now managing the GDG Cloud Sri Lanka chapter. Open source enthusiast and has contributed to Apache, Sahana and several other organisations.",
+      "company" : "SyscoLabs",
+      "companyLogo" : "https://devfest-17.firebaseapp.com/images/logos/sysco.png",
+      "companyLogoUrl" : "https://devfest-17.firebaseapp.com/images/logos/sysco.png",
+      "country" : "Colombo , Sri Lanka",
+      "featured" : true,
+      "name" : "Milindu Sanoj",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmilidu.jpg?alt=media&token=5bbfeb1d-542d-4172-aaa6-b75c58a7c015",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmilidu.jpg?alt=media&token=5bbfeb1d-542d-4172-aaa6-b75c58a7c015",
+      "shortBio" : "Graduated with a BSc in Computer Science from University of Colombo School of Computing in 2017 and now working as a full-stack Software Engineer at Sysco Labs.",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/agentmilindu",
+        "name" : "LinkedIn"
+      } ],
+      "badges" : [ {
+        "description" : "GCP Google Developer Expert",
+        "link" : "",
+        "name" : "gde"
+      } ],
+      "title" : "Senior Software Engineer"
     }
   },
   "team" : [ {
