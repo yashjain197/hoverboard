@@ -29,6 +29,16 @@
     "order" : 0,
     "title" : "Supported By"
   },
+  {
+    "logos" : [ {
+      "order" : 0,
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Linux_Foundation_logo_0.png?alt=media&token=15b21871-d785-4d40-9888-7f4502d5cc49",
+      "name" : "Linux Foundation",
+      "url" : "https://https://www.linuxfoundation.org/"
+    } ],
+    "order" : 1,
+    "title" : "Sponsor Silver"
+  },
 {
     "logos" : [ {
       "order" : 0,
@@ -36,7 +46,7 @@
       "name" : "Jetbrains",
       "url" : "https://www.jetbrains.com"
     } ],
-    "order" : 1,
+    "order" : 0,
     "title" : "General partners "
   } ],
   "schedule" : {
@@ -584,23 +594,28 @@
   },
   "speakers" : {
     "keshan_sodimana" : {
-      "bio" : "Keshan is the country engineering consultant for Google Sri Lanka. Keshan was the GDG lead and founder for GDG Sri Lanka. Before joining Google, he was a Software Developer for IFS, and he is a co-founder of Siyomek Holdings",
+      "bio" : "Keshan is the former country engineering consultant for Google Sri Lanka. Keshan was the GDG lead and founder for GDG Sri Lanka. Before joining Google, he was a Software Developer for IFS, and he is a co-founder of Siyomek Holdings",
       "company" : "Google",
-      "companyLogo" : "https://dfua16.firebaseapp.com/images/logos/google.svg",
-      "companyLogoUrl" : "https://dfua16.firebaseapp.com/images/logos/google.svg",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google-developers-logo-png-google-developers-daldhaldhaldhalhdlahdlahdlahdlahdlah-800.png?alt=media&token=1dd29559-26bd-473b-8547-185bd4b1af96",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google-developers-logo-png-google-developers-daldhaldhaldhalhdlahdlahdlahdlahdlah-800.png?alt=media&token=1dd29559-26bd-473b-8547-185bd4b1af96",
       "country" : "Sri Lanka",
       "featured" : true,
       "name" : "Keshan Sodimana",
       "photo" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F1901173_10203074120595094_1450286311_n.jpg?alt=media&token=aad38900-f8e7-4f71-9bca-f9c64157c75c",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/pre_speakers%2F1901173_10203074120595094_1450286311_n.jpg?alt=media&token=aad38900-f8e7-4f71-9bca-f9c64157c75c",
-      "shortBio" : "Keshan is the country engineering consultant for Google Sri Lanka. Keshan was the GDG lead and founder for GDG Sri Lanka. Before joining Google, he was a Software Developer for IFS, and he is a co-founder of Siyomek Holdings",
+      "shortBio" : "Keshan is the former country engineering consultant for Google for Sri Lanka. Keshan was the GDG lead and founder for GDG Sri Lanka. Before joining Google, he was a Software Developer for IFS, and he is a co-founder of Siyomek Holdings",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/keshan",
         "name" : "LinkedIn"
       } ],
+      "badges" : [ {
+        "description" : "Machine Learning Google Developer Expert",
+        "link" : "",
+        "name" : "gde"
+      } ],
       "order" : 0,
-      "title" : "Country Engineering Consultant"
+      "title" : "GDE Machine Learning"
     }
   },
   "team" : [ {
