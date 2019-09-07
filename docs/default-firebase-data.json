@@ -32,10 +32,10 @@
   {
     "logos" : [ {
       "order" : 0,
-      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Linux_Foundation_logo_0.png?alt=media&token=15b21871-d785-4d40-9888-7f4502d5cc49",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Linux_Foundation_logo_0.png?alt=media&token=59f6ffde-a401-45be-abdf-93418a356fa8",
       "name" : "Linux Foundation",
-      "url" : "https://https://www.linuxfoundation.org/"
-    } ],
+      "url" : "https://www.linuxfoundation.org"
+    }],
     "order" : 1,
     "title" : "Sponsor Silver"
   },
@@ -46,7 +46,7 @@
       "name" : "Jetbrains",
       "url" : "https://www.jetbrains.com"
     } ],
-    "order" : 0,
+    "order" : 2,
     "title" : "General partners "
   } ],
   "schedule" : {
@@ -664,6 +664,97 @@
         "name" : "gde"
       } ],
       "title" : "Senior Software Engineer"
+    },
+    "Kamal_Vaid" : {
+      "bio" : "He is working as a Technology Lead in Infosys Limited at Chandigarh, where he is exploring Android. he is been working on Android for more 6 years now. he also handle teams for Android and Flutter here.Apart from working experience,he is community lover. he is the organizer for GDG Chandigarh and GDE for Google Assistant. he write blogs on Android and Google Assistant on regular basis. ",
+      "company" : "Infosys Limited",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/400px-Infosys_logo.svg.png?alt=media&token=ed371161-246e-499a-9f12-be82d867f1a2",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/400px-Infosys_logo.svg.png?alt=media&token=ed371161-246e-499a-9f12-be82d867f1a2",
+      "country" : "Chandigarh, India",
+      "featured" : true,
+      "name" : "Kamal Vaid",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/IMG_20190729_022015_012%20(1)%20-%20smart%20solutions.jpg?alt=media&token=33367668-6d7a-4fd2-8c82-b77fcbcdaf3e",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/IMG_20190729_022015_012%20(1)%20-%20smart%20solutions.jpg?alt=media&token=33367668-6d7a-4fd2-8c82-b77fcbcdaf3e",
+      "shortBio" : "He is working as a Technology Lead in Infosys Limited at Chandigarh, where he is exploring Android. he is been working on Android for more 6 years now.",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/kamal-vaid",
+        "name" : "LinkedIn"
+      } ],
+      "badges" : [ {
+        "description" : "Google Assistant Google Developer Expert",
+        "link" : "",
+        "name" : "gde"
+      } ],
+      "title" : "Technology Lead"
+    },
+      "Hiranya_Jayathilaka" : {
+      "bio" : "Hiranya is a tech lead on the Firebase team. He works on Firebase Admin SDKs that enable backend integrations of Firebase. Prior to joining Google, Hiranya worked as a software engineer at WSO2, where he developed open source enterprise integration and API management technologies. He is a committer for several Apache projects including Apache Synapse and Axis2. Hiranya earned a bachelor’s degree in engineering from University of Moratuwa, Sri Lanka. He also received a Ph.D. in computer science from UC Santa Barbara. Hiranya’s dissertation focuses on the governance of cloud applications via policies, SLOs and programming language techniques. He has published original research in numerous peer-reviewed journals and conferences specialized in cloud computing and web services.",
+      "company" : "Google",
+      "companyLogo" : "../images/logos/google.svg",
+      "companyLogoUrl" : "../images/logos/google.svg",
+      "country" : "Mountain View, California",
+      "featured" : true,
+      "name" : "Hiranya Jayathilaka",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/hkj.jpg?alt=media&token=09243e79-8cdd-48b6-85f7-d2d21ddca4a6",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/hkj.jpg?alt=media&token=09243e79-8cdd-48b6-85f7-d2d21ddca4a6",
+      "shortBio" : "Hiranya is a tech lead on the Firebase team. He works on Firebase Admin SDKs that enable backend integrations of Firebase.",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/hiranyajayathilaka",
+        "name" : "LinkedIn"
+      } ],
+      "badges" : [ {
+        "description" : "Senior Software Engineer",
+        "link" : "",
+        "name" : "google"
+      } ],
+      "title" : "Senior Software Engineer"
+    },
+     "Neha_Sharma" : {
+      "bio" : "Neha has 10 years of experience is UI domain. She has started designing and developing the web when IE6 was there. She survived IE6,7, and 8. Today she is working on web - Reactjs, Javascript, PWAs, and many more web technologies. She is active speaker and mentor in the community of India. You can check her own community work on JSLovers Meetup as well as her work as Github too. When she is not coding or speaking you can find her doing calligraphy.",
+      "company" : "HCL Software",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/imgbin-logo-hcl-technologies-organization-design-brand-design-1h30J2LxCUgvJZyyZBT6kH5ts.jpg?alt=media&token=61cd5998-c044-4700-924a-31ca4f08ccd1",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/imgbin-logo-hcl-technologies-organization-design-brand-design-1h30J2LxCUgvJZyyZBT6kH5ts.jpg?alt=media&token=61cd5998-c044-4700-924a-31ca4f08ccd1",
+      "country" : "Bangalore, India.",
+      "featured" : true,
+      "name" : "Neha Sharma",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Pv4Njhvt_400x400.jpg?alt=media&token=b02d1a7e-b117-455e-8646-29f009610c9f",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Pv4Njhvt_400x400.jpg?alt=media&token=b02d1a7e-b117-455e-8646-29f009610c9f",
+      "shortBio" : "Neha has 10 years of experience is UI domain. She has started designing and developing the web when IE6 was there. She survived IE6,7, and 8.",
+      "socials" : [ 
+       {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/hellonehha",
+        "name" : "Twitter"
+      } ],
+      "title" : "Technical Lead"
+    },
+    "Vrijraj_Singh" : {
+      "bio" : "He Is Google Developers Expert for Web Technologies and Community Organizer of GDG Jalandhar(Punjab, India). and Working as Front End Developer at Qart Fashion in New Delhi, India. I've deliver lots of talks, sessions and workshops,and also i've developed Aura App for GDGx community management website.",
+      "company" : "Qart Fashion",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/400px-Infosys_logo.svg.png?alt=media&token=ed371161-246e-499a-9f12-be82d867f1a2",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/400px-Infosys_logo.svg.png?alt=media&token=ed371161-246e-499a-9f12-be82d867f1a2",
+      "country" : "Punjab, India",
+      "featured" : true,
+      "name" : "Vrijraj Singh",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/IMG_20190729_022015_012%20(1)%20-%20smart%20solutions.jpg?alt=media&token=33367668-6d7a-4fd2-8c82-b77fcbcdaf3e",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/IMG_20190729_022015_012%20(1)%20-%20smart%20solutions.jpg?alt=media&token=33367668-6d7a-4fd2-8c82-b77fcbcdaf3e",
+      "shortBio" : "He Is Google Developers Expert for Web Technologies and Community Organizer of GDG Jalandhar(Punjab, India).",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/vrijraj",
+        "name" : "LinkedIn"
+      } ],
+      "badges" : [ {
+        "description" : "Web Technologies Google Developers Expert",
+        "link" : "",
+        "name" : "gde"
+      } ],
+      "title" : "Front End Developer"
     }
   },
   "team" : [ {
