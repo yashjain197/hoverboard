@@ -37,7 +37,7 @@
       "url" : "https://www.linuxfoundation.org"
     }],
     "order" : 1,
-    "title" : "Sponsor Silver"
+    "title" : "Silver Sponsor "
   },
 {
     "logos" : [ {
@@ -593,9 +593,57 @@
     }
   },
   "speakers" : {
+     "Hiranya_Jayathilaka" : {
+      "bio" : "Hiranya is a tech lead on the Firebase team. He works on Firebase Admin SDKs that enable backend integrations of Firebase. Prior to joining Google, Hiranya worked as a software engineer at WSO2, where he developed open source enterprise integration and API management technologies. He is a committer for several Apache projects including Apache Synapse and Axis2. Hiranya earned a bachelor’s degree in engineering from University of Moratuwa, Sri Lanka. He also received a Ph.D. in computer science from UC Santa Barbara. Hiranya’s dissertation focuses on the governance of cloud applications via policies, SLOs and programming language techniques. He has published original research in numerous peer-reviewed journals and conferences specialized in cloud computing and web services.",
+      "company" : "Google",
+      "companyLogo" : "../images/logos/google.svg",
+      "companyLogoUrl" : "../images/logos/google.svg",
+      "country" : "Mountain View, California",
+      "featured" : true,
+      "name" : "Hiranya Jayathilaka",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/hkj.jpg?alt=media&token=09243e79-8cdd-48b6-85f7-d2d21ddca4a6",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/hkj.jpg?alt=media&token=09243e79-8cdd-48b6-85f7-d2d21ddca4a6",
+      "shortBio" : "Hiranya is a tech lead on the Firebase team. He works on Firebase Admin SDKs that enable backend integrations of Firebase.",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/hiranyajayathilaka",
+        "name" : "LinkedIn"
+      } ],
+      "badges" : [ {
+        "description" : "Senior Software Engineer",
+        "link" : "",
+        "name" : "google"
+      } ],
+      "title" : "Senior Software Engineer"
+    },
+      "Shweta_Bhatt" : {
+      "bio" : "Data Scientist, currently working in the AI team at Youplus, a startup based out of Bangalore and headquartered in New York City. She specializes in building a range of machine learning based products mostly within the NLP domain. She holds an undergraduate degree from Birla Institute of Technology and Science, Pilani in Information Systems and a Master's degree from King's College London in Artificial Intelligence. She has previously worked as a Software Developer at Cisco Systems and Apigee (acquired by Google in 2016) before transitioning into her AI career. She also has research experience at King's College London within the NetSys and the Biostatistics & Health Informatics research groups and has a paper - Illuminating and ecosystem of partisan websites published at the Web Conference 2018. Apart from this, she likes to contribute to the ML community by writing tech blogs which have been published in KDnuggets and TowardsDataScience on Medium. She is a mentor at Springboard, an online learning platform, through which she helps aspiring learners get started with their Data Science and AI/ML careers. She is also an AI consultant for a retail startup called SprintAI. Her interests within AI include Natural Language Processing, Deep Learning, Reinforcement Learning and Game Theory.",
+      "company" : "Youplus",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google-developers-logo-png-google-developers-daldhaldhaldhalhdlahdlahdlahdlahdlah-800.png?alt=media&token=1dd29559-26bd-473b-8547-185bd4b1af96",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google-developers-logo-png-google-developers-daldhaldhaldhalhdlahdlahdlahdlahdlah-800.png?alt=media&token=1dd29559-26bd-473b-8547-185bd4b1af96",
+      "country" : "Bangalore, India.",
+      "featured" : true,
+      "name" : "Shweta Bhatt",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/1%20-%20Shweta%20Bhatt.jpg?alt=media&token=868bc1e6-97bb-4127-8ae8-2105f145f0f9",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/1%20-%20Shweta%20Bhatt.jpg?alt=media&token=868bc1e6-97bb-4127-8ae8-2105f145f0f9",
+      "shortBio" : "Data Scientist, currently working in the AI team at Youplus, a startup based out of Bangalore and headquartered in New York City. She specializes in building a range of machine learning based products mostly within the NLP domain.",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/shweta-bhatt-1a930b12",
+        "name" : "LinkedIn"
+      } ],
+      "badges" : [ {
+        "description" : "Machine Learning Google Developer Expert",
+        "link" : "",
+        "name" : "gde"
+      } ],
+      "title" : "Data Scientist"
+    },
     "keshan_sodimana" : {
       "bio" : "Keshan is the former country engineering consultant for Google Sri Lanka. Keshan was the GDG lead and founder for GDG Sri Lanka. Before joining Google, he was a Software Developer for IFS, and he is a co-founder of Siyomek Holdings",
-      "company" : "Google",
+      "company" : "Open Data",
       "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google-developers-logo-png-google-developers-daldhaldhaldhalhdlahdlahdlahdlahdlah-800.png?alt=media&token=1dd29559-26bd-473b-8547-185bd4b1af96",
       "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google-developers-logo-png-google-developers-daldhaldhaldhalhdlahdlahdlahdlahdlah-800.png?alt=media&token=1dd29559-26bd-473b-8547-185bd4b1af96",
       "country" : "Sri Lanka",
@@ -689,30 +737,6 @@
       } ],
       "title" : "Technology Lead"
     },
-      "Hiranya_Jayathilaka" : {
-      "bio" : "Hiranya is a tech lead on the Firebase team. He works on Firebase Admin SDKs that enable backend integrations of Firebase. Prior to joining Google, Hiranya worked as a software engineer at WSO2, where he developed open source enterprise integration and API management technologies. He is a committer for several Apache projects including Apache Synapse and Axis2. Hiranya earned a bachelor’s degree in engineering from University of Moratuwa, Sri Lanka. He also received a Ph.D. in computer science from UC Santa Barbara. Hiranya’s dissertation focuses on the governance of cloud applications via policies, SLOs and programming language techniques. He has published original research in numerous peer-reviewed journals and conferences specialized in cloud computing and web services.",
-      "company" : "Google",
-      "companyLogo" : "../images/logos/google.svg",
-      "companyLogoUrl" : "../images/logos/google.svg",
-      "country" : "Mountain View, California",
-      "featured" : true,
-      "name" : "Hiranya Jayathilaka",
-      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/hkj.jpg?alt=media&token=09243e79-8cdd-48b6-85f7-d2d21ddca4a6",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/hkj.jpg?alt=media&token=09243e79-8cdd-48b6-85f7-d2d21ddca4a6",
-      "shortBio" : "Hiranya is a tech lead on the Firebase team. He works on Firebase Admin SDKs that enable backend integrations of Firebase.",
-      "socials" : [ 
-       {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/hiranyajayathilaka",
-        "name" : "LinkedIn"
-      } ],
-      "badges" : [ {
-        "description" : "Senior Software Engineer",
-        "link" : "",
-        "name" : "google"
-      } ],
-      "title" : "Senior Software Engineer"
-    },
      "Neha_Sharma" : {
       "bio" : "Neha has 10 years of experience is UI domain. She has started designing and developing the web when IE6 was there. She survived IE6,7, and 8. Today she is working on web - Reactjs, Javascript, PWAs, and many more web technologies. She is active speaker and mentor in the community of India. You can check her own community work on JSLovers Meetup as well as her work as Github too. When she is not coding or speaking you can find her doing calligraphy.",
       "company" : "HCL Software",
@@ -735,13 +759,13 @@
     "Vrijraj_Singh" : {
       "bio" : "He Is Google Developers Expert for Web Technologies and Community Organizer of GDG Jalandhar(Punjab, India). and Working as Front End Developer at Qart Fashion in New Delhi, India. I've deliver lots of talks, sessions and workshops,and also i've developed Aura App for GDGx community management website.",
       "company" : "Qart Fashion",
-      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/400px-Infosys_logo.svg.png?alt=media&token=ed371161-246e-499a-9f12-be82d867f1a2",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/400px-Infosys_logo.svg.png?alt=media&token=ed371161-246e-499a-9f12-be82d867f1a2",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google-developers-logo-png-google-developers-daldhaldhaldhalhdlahdlahdlahdlahdlah-800.png?alt=media&token=1dd29559-26bd-473b-8547-185bd4b1af96",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/google-developers-logo-png-google-developers-daldhaldhaldhalhdlahdlahdlahdlahdlah-800.png?alt=media&token=1dd29559-26bd-473b-8547-185bd4b1af96",
       "country" : "Punjab, India",
       "featured" : true,
       "name" : "Vrijraj Singh",
-      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/IMG_20190729_022015_012%20(1)%20-%20smart%20solutions.jpg?alt=media&token=33367668-6d7a-4fd2-8c82-b77fcbcdaf3e",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/IMG_20190729_022015_012%20(1)%20-%20smart%20solutions.jpg?alt=media&token=33367668-6d7a-4fd2-8c82-b77fcbcdaf3e",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/vijay.jpg?alt=media&token=970ad00d-29a0-4ed1-bed0-8087cf96ae0e",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/vijay.jpg?alt=media&token=970ad00d-29a0-4ed1-bed0-8087cf96ae0e",
       "shortBio" : "He Is Google Developers Expert for Web Technologies and Community Organizer of GDG Jalandhar(Punjab, India).",
       "socials" : [ 
        {
