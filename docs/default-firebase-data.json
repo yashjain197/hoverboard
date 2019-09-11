@@ -32,9 +32,9 @@
   {
     "logos" : [ {
       "order" : 0,
-      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/Linux_Foundation_logo_0.png?alt=media&token=59f6ffde-a401-45be-abdf-93418a356fa8",
-      "name" : "Linux Foundation",
-      "url" : "https://www.linuxfoundation.org"
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/cncf-color%20(1).png?alt=media&token=fe7346df-75b1-45d9-b362-1dc7cc084f05",
+      "name" : "The Cloud Native Computing Foundation",
+      "url" : "https://www.cncf.io"
     }],
     "order" : 1,
     "title" : "Silver Sponsor "
