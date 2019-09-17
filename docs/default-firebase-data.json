@@ -779,6 +779,26 @@
         "name" : "gde"
       } ],
       "title" : "Front End Developer"
+    },
+    "Kirill_Shmakov" : {
+      "bio" : "He has been a member of the JetBrains team since the beginning of 2019. Being part of the Kotlin project, he works on IDE support for Kotlin/Native. Before Jetbrains he was at the geo division at yandex for 6 years, where he supported the backend of Yandex. He worked on Maps with the focus on visual data serving and interaction with the mobile team. His master's degree is in mathematics from SPb SU was accopanied by a two year experience in applied mathematics in a gradute study of McGill University.",
+      "company" : "Jetbrains",
+      "companyLogo" : "https://devfest19.gdgsrilanka.org/images/logos/jetbrains-variant-3.svg",
+      "companyLogoUrl" : "https://devfest19.gdgsrilanka.org/images/logos/jetbrains-variant-3.svg",
+      "country" : "St. Petersburg, Russia",
+      "featured" : true,
+      "name" : "Kirill Schmakov",
+      "photo" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/kirill_schmakov.jpg?alt=media&token=4883c8aa-d44c-49d4-bcc7-da5dbaa3392c",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/kirill_schmakov.jpg?alt=media&token=4883c8aa-d44c-49d4-bcc7-da5dbaa3392c",
+      "shortBio" : "He is a member of the IDE support team for Kotlin in JetBrains",
+      "socials" : [ 
+       {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/kirill-shmakov-22069567/",
+        "name" : "LinkedIn"
+      } ],
+      "badges" : [ ],
+      "title" : "Software Engineer"
     }
   },
   "team" : [ {
@@ -786,11 +806,6 @@
       "name": "Pamuditha Imalka",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fpamuditha.jpg?alt=media&token=bb514fb4-87d6-4302-b63c-f9228ae15766",
       "socials": [
-        {
-          "icon": "gplus",
-          "link": "https://plus.google.com/u/0/+PamudithaImalka",
-          "name": "Google+"
-        },
         {
           "icon": "facebook",
           "link": "https://www.facebook.com/pamuim",
@@ -808,11 +823,6 @@
       "name": "Milindu Sanoj",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmilidu.jpg?alt=media&token=5bbfeb1d-542d-4172-aaa6-b75c58a7c015",
       "socials": [
-        {
-          "icon": "gplus",
-          "link": "https://plus.google.com/u/0/+MilinduSanojKumarage",
-          "name": "Google+"
-        },
         {
           "icon": "facebook",
           "link": "https://www.facebook.com/agentmilindu",
@@ -843,11 +853,6 @@
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fudaya.png?alt=media&token=92cf0007-b128-462d-af43-1f1a9d902d2e",
       "socials": [
         {
-          "icon": "gplus",
-          "link": "https://plus.google.com/u/0/+UdayaGunathilaka",
-          "name": "Google+"
-        },
-        {
           "icon": "facebook",
           "link": "https://www.facebook.com/umgunathilaka",
           "name": "Facebook"
@@ -862,20 +867,15 @@
         {
           "icon": "facebook",
           "link": "https://www.facebook.com/pasan.artz",
-          "name": "Google+"
+          "name": "Pasbook"
         }
       ],
       "order": 5,
-      "title": "Pasdio, Pastakes, Pasming and all things Pas! you name it. He has it.!"
+      "title": "Pasdio, Pastakes, Pasming and all things Pas! you name it. He has it.! Check out his Pasbook.!"
     }, {
       "name": "Michela Thalagala",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fmichela.png?alt=media&token=adfa761c-2d29-497b-8bad-f44229c2c2fb",
       "socials": [
-        {
-          "icon": "gplus",
-          "link": "https://plus.google.com/u/0/+MichelaThalagala",
-          "name": "Google+"
-        },
         {
           "icon": "facebook",
           "link": "https://www.facebook.com/michela.thalagala",
@@ -888,11 +888,6 @@
       "name": "Dilini Madhubhashini",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestlk18.appspot.com/o/team%2Fdilini.jpg?alt=media&token=eca3ce49-330b-4eee-9e73-3a0eefd2ec60",
       "socials": [
-        {
-          "icon": "gplus",
-          "link": "https://plus.google.com/u/0/112171662926048643500",
-          "name": "Google+"
-        },
         {
           "icon": "facebook",
           "link": "https://www.facebook.com/dilini.m.weerasinghe",
