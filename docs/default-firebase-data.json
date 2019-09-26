@@ -63,15 +63,21 @@
           "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/elastic-logo-h-full-color-5do6e.png?alt=media&token=f889322f-4b3a-4590-88f7-a7ea987359bc",
           "name": "elastic",
           "url": "https://www.elastic.co"
+        },{
+          "order": 2,
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2019-e86e2.appspot.com/o/GitHub_Logo.png?alt=media&token=c0a5b222-edcd-428c-9f99-a5488f63003c",
+          "name": "GitHub",
+          "url": "https://github.com/"
         }
+
       ],
       "order": 2,
       "title": "General partners "
     }
   ],
   "schedule": {
-    "2016-11-16": {
-      "dateReadable": "November 16",
+    "2019-11-23": {
+      "dateReadable": "November 23",
       "timeslots": [
         {
           "endTime": "10:00",
@@ -283,8 +289,8 @@
         }
       ]
     },
-    "2016-09-10": {
-      "dateReadable": "September 10",
+    "2019-11-24": {
+      "dateReadable": "September 24",
       "timeslots": [
         {
           "endTime": "10:10",
